@@ -1,0 +1,15 @@
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\UpdateCRMUserDataFromAD.exe
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\UpdateCRMUserDataFromAD.pdb
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\obj\x86\Debug\UpdateCRMUserDataFromAD.exe
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\obj\x86\Debug\UpdateCRMUserDataFromAD.pdb
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\UpdateCRMUserDataFromAD.exe.config
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\microsoft.xrm.sdk.workflow.dll
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\microsoft.crm.sdk.proxy.xml
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\microsoft.xrm.sdk.xml
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\microsoft.xrm.sdk.workflow.xml
+\\CRM2011DEV\c$\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\bin\Debug\UpdateCRMUserDataFromAD.exe.config
+\\CRM2011DEV\c$\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\obj\x86\Debug\UpdateCRMUserDataFromAD.exe
+\\CRM2011DEV\c$\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\obj\x86\Debug\UpdateCRMUserDataFromAD.pdb
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\UpdateCRMUserDataFromAD\UpdateCRMUserDataFromAD\obj\x86\Debug\UpdateCRMUserDataFromAD.csprojResolveAssemblyReference.cache

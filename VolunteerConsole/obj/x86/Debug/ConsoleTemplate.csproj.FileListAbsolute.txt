@@ -1,0 +1,28 @@
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\ConsoleTemplate.exe.config
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\ConsoleTemplate.exe
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\ConsoleTemplate.pdb
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\microsoft.crm.sdk.proxy.dll
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\microsoft.xrm.sdk.dll
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\microsoft.xrm.sdk.workflow.dll
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\microsoft.crm.sdk.proxy.xml
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\microsoft.xrm.sdk.xml
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\microsoft.xrm.sdk.workflow.xml
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.exe
+C:\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.pdb
+\\crm2011dev\c$\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\bin\Debug\ConsoleTemplate.exe.config
+\\crm2011dev\c$\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.exe
+\\crm2011dev\c$\Users\Administrator.TSA\Documents\Visual Studio 2010\Projects\ConsoleTemplate\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.pdb
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\bin\Debug\ConsoleTemplate.exe.config
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.exe
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\obj\x86\Debug\ConsoleTemplate.pdb
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\bin\Debug\ConsoleTemplate.exe
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\bin\Debug\ConsoleTemplate.pdb
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\bin\Debug\microsoft.crm.sdk.proxy.xml
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\ConsoleTemplate\bin\Debug\microsoft.xrm.sdk.xml
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\VolunteerConsole\bin\Debug\ConsoleTemplate.exe.config
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\VolunteerConsole\obj\x86\Debug\ConsoleTemplate.exe
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\VolunteerConsole\obj\x86\Debug\ConsoleTemplate.pdb
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\VolunteerConsole\bin\Debug\ConsoleTemplate.exe
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\VolunteerConsole\bin\Debug\ConsoleTemplate.pdb
+C:\Users\john.heaphy\Documents\Visual Studio 2010\Projects\ConsoleTemplate - Copy\VolunteerConsole\obj\x86\Debug\ConsoleTemplate.csprojResolveAssemblyReference.cache
