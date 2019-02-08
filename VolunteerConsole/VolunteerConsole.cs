@@ -21,7 +21,7 @@
             Console.WriteLine(Today);
 
             //Console.ReadLine();
-            // new comment
+            // new coment updates
             String CRMOrg = "crm16";
             if (CRMOrgName.Length > 0)
             {
