@@ -6,7 +6,7 @@
     using Microsoft.Xrm.Sdk.Query;
     using Microsoft.Xrm.Sdk.Client;
     using Microsoft.Crm.Sdk.Messages;
- 
+
 
     class VolunteerConsole
     {
@@ -22,7 +22,7 @@
 
             //Console.ReadLine();
 
-            String CRMOrg = "";
+            String CRMOrg = "crm16uat";
             if (CRMOrgName.Length > 0)
             {
                 CRMOrg = CRMOrgName[0];
@@ -66,7 +66,7 @@
             IOrganizationService service = (IOrganizationService)serviceProxy;
 
 
-            //Active Date 
+            //Active Date
 
             string ActiveDate = @"
             <fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>
@@ -76,7 +76,7 @@
             <attribute name='ccx_calculatedtrialenddate' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
-            <condition attribute='statecode' operator='eq' value='0' />           
+            <condition attribute='statecode' operator='eq' value='0' />
             <condition attribute='ccx_activedate' operator='null' />
             <condition attribute='ccx_mandatorytrainingstatus' operator='ne' value='2' />
             <condition attribute='ccx_calculatedtrialenddate' operator='on-or-before' value='";
@@ -84,7 +84,7 @@
             ActiveDate += Today;
 
             ActiveDate += @"' />
-            
+
             </filter>
             </entity>
             </fetch>";
@@ -246,7 +246,7 @@
             <attribute name='ccx_volunteerid' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
-            <condition attribute='statecode' operator='eq' value='0' />    
+            <condition attribute='statecode' operator='eq' value='0' />
             <condition attribute='ccx_check_received_date' operator='not-null' />
             <condition attribute='ccx_check_expiry_email_workflow' operator='eq' value='0' />
             <condition attribute='ccx_volunteerstatus' operator='in'>
@@ -323,7 +323,7 @@
             string VolunteerDCAActive = @"
             <fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>
             <entity name='ccx_volunteer'>
-            <attribute name='ccx_name' />      
+            <attribute name='ccx_name' />
             <attribute name='ccx_volunteerid' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
@@ -365,13 +365,13 @@
             string VolunteerDCAClose = @"
             <fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>
             <entity name='ccx_volunteer'>
-            <attribute name='ccx_name' />     
+            <attribute name='ccx_name' />
             <attribute name='ccx_volunteerid' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
             <condition attribute='statecode' operator='eq' value='0' />
             <condition attribute='ccx_volunteerstatus' operator='in'>
-            <value>7</value>        
+            <value>7</value>
             </condition>
             </filter>
             <link-entity name='contact' from='contactid' to='ccx_contactid' alias='ad'>
@@ -418,7 +418,7 @@
             <value>3</value>
             <value>6</value>
             <value>4</value>
-            </condition>     
+            </condition>
             </filter>
             </entity>
             </fetch>";
@@ -463,7 +463,7 @@
             IDExpired += Today;
 
             IDExpired += @"' />
-            
+
             </filter>
             </entity>
             </fetch>";
@@ -491,17 +491,17 @@
             string Award100 = @"
             <fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>
             <entity name='ccx_volunteer'>
-            <attribute name='ccx_name' />          
+            <attribute name='ccx_name' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
             <condition attribute='statecode' operator='eq' value='0' />
             <condition attribute='ccx_volunteerstatus' operator='in'>
             <value>4</value>
             <value>5</value>
-            <value>6</value>        
+            <value>6</value>
             </condition>
             <condition attribute='ccx_totalduration' operator='gt' value='5999' />
-            <condition attribute='ccx_award_count' operator='lt' value='100' />        
+            <condition attribute='ccx_award_count' operator='lt' value='100' />
             </filter>
             </entity>
             </fetch>";
@@ -526,17 +526,17 @@
             string Award200 = @"
             <fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>
             <entity name='ccx_volunteer'>
-            <attribute name='ccx_name' />          
+            <attribute name='ccx_name' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
             <condition attribute='statecode' operator='eq' value='0' />
             <condition attribute='ccx_volunteerstatus' operator='in'>
             <value>4</value>
             <value>5</value>
-            <value>6</value>  
+            <value>6</value>
             </condition>
             <condition attribute='ccx_totalduration' operator='gt' value='11999' />
-            <condition attribute='ccx_award_count' operator='lt' value='200' />        
+            <condition attribute='ccx_award_count' operator='lt' value='200' />
             </filter>
             </entity>
             </fetch>";
@@ -564,17 +564,17 @@
             string Award500 = @"
             <fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>
             <entity name='ccx_volunteer'>
-            <attribute name='ccx_name' />          
+            <attribute name='ccx_name' />
             <order attribute='ccx_name' descending='false' />
             <filter type='and'>
             <condition attribute='statecode' operator='eq' value='0' />
             <condition attribute='ccx_volunteerstatus' operator='in'>
             <value>4</value>
             <value>5</value>
-            <value>6</value>  
+            <value>6</value>
             </condition>
             <condition attribute='ccx_totalduration' operator='gt' value='29999' />
-            <condition attribute='ccx_award_count' operator='lt' value='500' />        
+            <condition attribute='ccx_award_count' operator='lt' value='500' />
             </filter>
             </entity>
             </fetch>";
