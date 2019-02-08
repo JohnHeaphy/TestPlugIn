@@ -88,3 +88,6 @@ I:\Northampton\Projects\Open\pro_a_y Head Office\pro_a_110 CRM 2016\Assembly and
 I:\Northampton\Projects\Open\pro_a_y Head Office\pro_a_110 CRM 2016\Assembly and plugin code\Consoles\VolunteerConsole\obj\x86\Debug\VolunteerConsole.exe
 I:\Northampton\Projects\Open\pro_a_y Head Office\pro_a_110 CRM 2016\Assembly and plugin code\Consoles\VolunteerConsole\obj\x86\Debug\VolunteerConsole.pdb
 I:\Northampton\Projects\Open\pro_a_y Head Office\pro_a_110 CRM 2016\Assembly and plugin code\Consoles\VolunteerConsole\obj\x86\Debug\VolunteerConsole.csprojResolveAssemblyReference.cache
+C:\Users\john.heaphy\Documents\GitHub\TestPlugIn\VolunteerConsole\bin\Debug\VolunteerConsole.exe.config
+C:\Users\john.heaphy\Documents\GitHub\TestPlugIn\VolunteerConsole\obj\x86\Debug\VolunteerConsole.exe
+C:\Users\john.heaphy\Documents\GitHub\TestPlugIn\VolunteerConsole\obj\x86\Debug\VolunteerConsole.pdb
